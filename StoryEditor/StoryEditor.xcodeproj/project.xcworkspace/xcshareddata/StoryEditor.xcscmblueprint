@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "169D3B33DD9FFA838E3C3330C2F4E982CD611512",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "169D3B33DD9FFA838E3C3330C2F4E982CD611512" : 0,
+    "5E4C801480677784B56FCC3BB71426A85BD8CCB3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9127249A-FDB2-472F-B343-D2FEE6DBA1A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "169D3B33DD9FFA838E3C3330C2F4E982CD611512" : "CharmingWorld\/",
+    "5E4C801480677784B56FCC3BB71426A85BD8CCB3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StoryEditor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StoryEditor\/StoryEditor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:loveSherlock\/CharmingWorld.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "169D3B33DD9FFA838E3C3330C2F4E982CD611512"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:loveSherlock\/learngit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E4C801480677784B56FCC3BB71426A85BD8CCB3"
+    }
+  ]
+}
